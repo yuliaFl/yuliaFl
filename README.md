@@ -2,8 +2,8 @@ Nice to see you here!
 
 My name is Yulia. I am a computer programming student at Humber College, completing my last year of Computer Programming Diploma. 
 
-I've had a chance to work with different aspects of IT, and come to the conculsion that my instrests lay in React, ReactNative, SQL, Java. 
+I've had a chance to work with different aspects of IT, and have come to the conculsion that my instrests lay in React, ReactNative, SQL, Java. 
 
-On my personal time im currently working on two projects, a React Native app and a React website that generates dishes to cook, take a look at my code in my repositories!
+On my personal time Im currently working on two projects, a React Native app and a React website that generates dishes to cook, take a look at my code in my repositories!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuliaFl&layout=compact)
