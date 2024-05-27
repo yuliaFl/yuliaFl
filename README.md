@@ -1,6 +1,6 @@
 Nice to see you here!
 
-My name is Yulia. I am a computer programming student at Humber College, completing my last year of Computer Programming Diploma.
+My name is Yulia. I am a Computer Programming Diploma graduate at Humber College.
 
 I've had a chance to work with different aspects of IT, and have concluded that my interests lay in React, ReactNative, Python, PL/SQL, and Java.
 
